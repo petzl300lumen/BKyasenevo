@@ -3,7 +3,7 @@
 
 Для развертывания проекта клонируйте репозиторий
 
-``` git clone https://github.com/petzl300lumen/BKyasenevo.git ```
+> ``` git clone https://github.com/petzl300lumen/BKyasenevo.git ```
 
 И откройте файл index.html в любом браузере.
 
